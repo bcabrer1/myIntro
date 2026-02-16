@@ -1,4 +1,27 @@
-# myIntro
-My personal repo
+ 
+# Hi, I'm Ben 👋
 
-My name is Ben and I am from the DC area. In highschool, I had the chance to join an AP Java course. I felt as if I entered a whole new world. I was challenged with assignments and my teacher paired me with a National Honor Society tutor. I am here today on the shoulders of my instructor and tutor because their beleif in me allowed me to learn a skill that has changed my life. Fast forward, I am a dual graduate with a BA in Cybersecurity and also the Multiverse apprenticeship progran. I consider myself a life long learner and am privileged to be apart of the tech sector. 
+## About Me
+DC-based software engineer passionate about building secure, scalable solutions. From AP Java to dual graduate in **Cybersecurity** and **Multiverse Apprenticeship**, I've turned early curiosity into a career in tech.
+
+## 🚀 My Journey
+Started with a challenging AP Java course in high school—my first real "aha!" moment with programming. Thanks to incredible mentors (shout-out to my NHS tutor!), I discovered a passion for solving problems through code. That foundation evolved into:
+- **BA in Cybersecurity** – Understanding the full security landscape
+- **Multiverse Apprenticeship** – Hands-on, industry-focused training
+
+## 💻 What I Work With
+- **Languages:** Java, [add others]
+- **Focus Areas:** Cybersecurity, [backend/full-stack/etc], [other interests]
+- **Currently Learning:** [technologies/concepts]
+
+## 🏆 Featured Projects
+- [Project Name](link) – Brief description of impact
+- [Project Name](link) – Brief description of impact
+
+## 🎯 What Drives Me
+Continuous learning. Every challenge is a chance to level up—whether it's mastering a new framework, deepening security knowledge, or mentoring others on their coding journey (paying it forward from those who helped me).
+
+## 📬 Let's Connect
+- GitHub: [your-profile](https://github.com/bcabrer1)
+- LinkedIn: [your-profile]
+- Check out my latest projects below ⬇️
