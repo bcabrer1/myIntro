@@ -6,8 +6,8 @@ DC-based software engineer passionate about building secure, scalable solutions.
 
 ## 🚀 My Journey
 Started with a challenging AP Java course in high school—my first real "aha!" moment with programming. Thanks to incredible mentors (shout-out to my NHS tutor!), I discovered a passion for solving problems through code. That foundation evolved into:
-- **BA in Cybersecurity** – Understanding the full security landscape
-- **Multiverse Apprenticeship** – Hands-on, industry-focused training
+- **BA in Cybersecurity** – Understanding the full security landscape.
+- **Multiverse Apprenticeship** – Hands-on, industry-focused training.
 
 ## 💻 What I Work With
 - **Languages:** Javascript, [add others]
