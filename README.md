@@ -1,5 +1,5 @@
  
-# Hi, I'm Ben 👋
+# Welcome, I'm Ben 👋
 
 ## About Me
 DC-based software engineer passionate about building secure, scalable solutions. From AP Java to dual graduate in **Cybersecurity** and **Multiverse Apprenticeship**, I've turned early curiosity into a career in tech.
