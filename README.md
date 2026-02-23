@@ -5,7 +5,7 @@
 DC-based software engineer passionate about building secure, scalable solutions. From AP Java to dual graduate in **Cybersecurity** and **Multiverse Apprenticeship**, I've turned early curiosity into a career in tech.
 
 ## 🚀 My Journey
-Started with a challenging AP Java course in high school—my first real "aha!" moment with programming. Thanks to incredible mentors (shout-out to my NHS tutor!), I discovered a passion for solving problems through code. That foundation evolved into:
+Started with a challenging AP Java course in high school which was my first real "aha!" moment with programming. Thanks to incredible mentors, I discovered a passion for solving problems through code. That foundation evolved into:
 - **BA in Cybersecurity** – Understanding the full security landscape.
 - **Multiverse Apprenticeship** – Hands-on, industry-focused training.
 
