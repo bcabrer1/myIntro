@@ -2,10 +2,10 @@
 # Welcome, I'm Ben 
 
 ## About Me
-DC-based software engineer passionate about building secure and scalable solutions. From AP Java to dual graduate in **Cybersecurity** and **Multiverse Apprenticeship**, I've turned early curiosity into a career in tech.
+DC-based software engineer interested in building secure and scalable solutions. From AP Java to dual graduate in **Cybersecurity** and **Multiverse Apprenticeship**, I've turned early curiosity into a career in tech.
 
 ## 🚀 My Journey
-Started with a challenging AP Java course in high school which was my first real "aha!" moment with programming. Thanks to incredible mentors, I discovered a passion for solving problems through code. That foundation evolved into:
+Started with a challenging AP Java course in high school which was my first real "aha!" moment with programming. Thanks to incredible mentors, I discovered a desire for solving problems through code. That foundation evolved into:
 - **BA in Cybersecurity** – Understanding the full security landscape.
 - **Multiverse Apprenticeship** – Hands-on, industry-focused training.
 
