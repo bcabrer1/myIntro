@@ -19,7 +19,7 @@ Started with a challenging AP Java course in high school which was my first real
 - [Project Name](link) – Brief description of impact
 
 ## 🎯 What Drives Me
-Continuous learning. Every challenge is a chance to level up—whether it's mastering a new framework, deepening security knowledge, or mentoring others on their coding journey (paying it forward from those who helped me).
+Continuous learning. Every challenge is a chance to level up—whether it's mastering a new framework, deepening security knowledge, or mentoring others on their coding journey (paying it forward from those who helped me!).
 
 ## 📬 Let's Connect
 - GitHub: [your-profile](https://github.com/bcabrer1)
