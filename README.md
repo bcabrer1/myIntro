@@ -24,4 +24,4 @@ Continuous learning. Every challenge is a chance to level up—whether it's mast
 ## 📬 Let's Connect
 - GitHub: [your-profile](https://github.com/bcabrer1)
 - LinkedIn: [[your-profile](https://www.linkedin.com/in/benjamin-c-ab7650a1/)]
-- Check out my latest projects below ⬇️
+- Check out my latest projects below:
